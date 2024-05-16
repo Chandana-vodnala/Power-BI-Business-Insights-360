@@ -29,10 +29,21 @@ The objective is to create an interactive report to give valuable insights to Fi
 
 ##  Building the report:
 
-### Finance report:
-Finance report provides insights on Profit & Loss statement for any customer, product, and country. 
+### Finance view:
+Finance report provides insights on Profit & Loss statement for any customer, product, and country. It is build using key metrics like Net Sales, Gross Margin%, Net Profit%.
 
-It is build using key metrics like Net Sales, Gross Margin%, Net Profit%.
+### Sales view:
+Sales report provides insights into performance of customer(s) over key metrics like Net Sales, Gross Margin.
+
+### Marketing view:
+Marketing report provides insights into product performance and also customer performance. 
+
+### Supply Chain view:
+Supply Chain report provides insight into forecast accuracy, net error, risk profile for customers, products, and countries.
+
+### Executive view:
+Executive view is the onsolidated view of all the above mentioned view.
+
 
 
 
