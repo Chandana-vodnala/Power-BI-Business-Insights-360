@@ -30,16 +30,16 @@ The objective is to create an interactive report to give valuable insights to Fi
 ##  Building the report:
 
 ### Finance view:
-Finance report provides insights on Profit & Loss statement for any customer, product, and country. It is build using key metrics like Net Sales, Gross Margin%, Net Profit%.
+Finance view provides insights on Profit & Loss statement for any customer, product, and country. It is build using key metrics like Net Sales, Gross Margin%, Net Profit%.
 
 ### Sales view:
-Sales report provides insights into performance of customer(s) over key metrics like Net Sales, Gross Margin.
+Sales view provides insights into performance of customer(s) over key metrics like Net Sales, Gross Margin.
 
 ### Marketing view:
-Marketing report provides insights into product performance and also customer performance. 
+Marketing view provides insights into product performance and also customer performance. 
 
 ### Supply Chain view:
-Supply Chain report provides insight into forecast accuracy, net error, risk profile for customers, products, and countries.
+Supply Chain view provides insight into forecast accuracy, net error, risk profile for customers, products, and countries.
 
 ### Executive view:
 Executive view is the onsolidated view of all the above mentioned view.
@@ -58,7 +58,9 @@ Executive view is the onsolidated view of all the above mentioned view.
 - [x] Mapping Stakeholders' needs and expectations.
 - [x] Creating dynamic reports.
 - [x] Understanding of Business terminology including Gross Price, Pre & Post Invoice Deductions, Net Invoice Sales, Gross Margin, Net Profit, Net Sales, COGS, YTD, YTG.
- 
+
+## Acknowledgments
+Special thanks to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for their guidance. 
 
 
       
