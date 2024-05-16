@@ -45,6 +45,31 @@ Supply Chain report provides insight into forecast accuracy, net error, risk pro
 Executive view is the onsolidated view of all the above mentioned view.
 
 
+## Technical Skills:
+
+- [x] Proficiency in ETL methodology (Extract, Transform, Load).
+- [x] Ability to create connections among tables using Data Modelling.
+- [x] Creating DAX measures for key metrics to visualize data.
+      
+
+## Soft Skills:
+
+- [x] Understanding of Project Charter.
+- [x] Mapping Stakeholders' needs and expectations.
+- [x] Creating dynamic reports.
+- [x] Understanding of Business terminology including Gross Price, Pre & Post Invoice Deductions, Net Invoice Sales, Gross Margin, Net Profit, Net Sales, COGS, YTD, YTG.
+ 
+
+
+      
+
+
+
+
+
+
+
+
 
 
       
